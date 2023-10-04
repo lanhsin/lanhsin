@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lanhsin
 - 👀 I’m interested in c++
-- 🌱 I’m currently learning Azure
-- 💞️ I’m looking to collaborate on Nvidia
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me https://www.linkedin.com/in/lanhsin-lin-a7562330/
 
 <!---
